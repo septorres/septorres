@@ -49,7 +49,7 @@ Atualmente, atuo na conexão direta entre infraestrutura, governança de TI e re
 Grande parte do código que desenvolvo atua diretamente em operações críticas corporativas e, por questões de confidencialidade e propriedade intelectual, encontra-se em repositórios privados. Abaixo estão os destaques técnicos dessas entregas:
 
 * **Sistema Interno de Gestão de Contratos e Comissões (Full-Stack Monorepo):**
-  * **Escopo:** Plataforma web para substituir controlos manuais na gestão de contratos de expositores, parcelas, pendências e fecho quinzenal automatizado de comissões comerciais.
+  * **Escopo:** Plataforma web para substituir controles manuais na gestão de contratos de expositores, parcelas, pendências e fecho quinzenal automatizado de comissões comerciais.
   * **Arquitetura & Stack:** Monorepo gerido com `pnpm workspaces`; API REST orientada a contrato (`OpenAPI` + `Orval`); Back-end em `Node.js`, `Express` e `TypeScript`; persistência em `PostgreSQL` com `Drizzle ORM`; validação estrita com `Zod`; Front-end em `React/Vite` com `React Query`; testes unitários e de integração automatizados.
 * **Pipeline de Higienização e Segmentação de Dados (Python):**
   * **Escopo:** Automação para saneamento, deduplicação e cruzamento de bases de dados com mais de **220 mil registos**, garantindo integridade entre contactos e empresas para campanhas e operações comerciais.
