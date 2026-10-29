@@ -1,49 +1,58 @@
 # Fernando Torres
 
-Analista de Suporte de Sistemas | Infraestrutura, automação e desenvolvimento
+**Analista de Suporte de Sistemas | Infraestrutura, automação e desenvolvimento**
 
-Sou formado em Ciência da Computação e trabalho com suporte a sistemas e infraestrutura de TI. Também desenvolvo automações e ferramentas internas para reduzir tarefas manuais e organizar processos.
+Sou formado em Ciência da Computação e trabalho com TI desde 2022. Comecei na área de infraestrutura do Metrô de São Paulo e, atualmente, atuo na SEVEN com suporte a sistemas, ambientes corporativos, automações e desenvolvimento de soluções internas.
 
-No dia a dia, atuo com Microsoft 365, Entra ID, Active Directory, Windows Server, Google Workspace e suporte a aplicações corporativas. Quando encontro um processo que pode ser melhorado com código, costumo trabalhar com Python, PowerShell e tecnologias web.
-
-Gosto de entender o problema antes de escolher a tecnologia. Parte do meu trabalho envolve conversar com as equipes, traduzir regras de negócio em funcionalidades e acompanhar os testes até que a solução possa ser utilizada.
+No meu dia a dia, administro Microsoft 365, Entra ID, Active Directory e Google Workspace, acompanho demandas de usuários e infraestrutura e desenvolvo ferramentas para simplificar processos das equipes. Gosto de entender o problema, conversar com quem usa a solução e acompanhar os ajustes até que ela funcione na prática.
 
 ## Projetos públicos
 
-**[Limpeza e segmentação de dados com Python](https://github.com/septorres/data-cleaning-segmentation-python)**  
-Pipeline para padronizar cadastros, validar e-mails, remover duplicidades e organizar contatos por cargo e interesses. Inclui dados fictícios e testes automatizados.
+- **[Limpeza e segmentação de dados — Python](https://github.com/septorres/data-cleaning-segmentation-python)** — Padronização de cadastros, validação de e-mails, deduplicação e segmentação. Exemplo com dados fictícios e testes.
+- **[Relatórios de Active Directory — PowerShell](https://github.com/septorres/active-directory-reporting-powershell)** — Consultas de usuários e grupos, com exportação CSV. Baseado em atividades de 2023 e adaptado para portfólio em 2026, sem dados corporativos.
+- **[Previsão de séries temporais — Machine Learning](https://github.com/septorres/time-series-forecasting-ml)** — Comparação entre Random Forest e MLP com dados sintéticos. Reconstrução em 2026 de um exercício acadêmico de 2023.
 
-**[Relatórios de Active Directory com PowerShell](https://github.com/septorres/active-directory-reporting-powershell)**  
-Scripts de consulta de usuários e auditoria de grupos, com exportação de relatórios CSV. Projeto baseado em atividades de 2023 e adaptado para portfólio em 2026, sem informações internas ou operações de alteração de contas.
+## Experiência e entregas profissionais
 
-**[Previsão de séries temporais com Machine Learning](https://github.com/septorres/time-series-forecasting-ml)**  
-Experimento reproduzível com dados sintéticos, seleção de variáveis e comparação de Random Forest e MLP. Reconstrução em 2026 de um exercício acadêmico discutido em 2023.
+### SEVEN BR / Auction Comercial Promotora — Analista de Suporte de Sistemas
+*Março de 2024 – atual*
 
-## Experiência em projetos corporativos
+- Administração de ambientes Microsoft 365, Entra ID/Active Directory e Google Workspace, com suporte a acessos, permissões, usuários, equipamentos e serviços corporativos.
+- Automação de rotinas e tratamento de bases de dados para apoiar áreas administrativas, comerciais e operações de eventos.
+- Manutenção e evolução de sites em WordPress/Elementor, HTML, CSS e JavaScript, além de suporte a plataformas como Ploomes, Salesforce e OMIE.
+- Desenvolvimento de soluções internas em colaboração com as áreas de negócio.
 
-**Gestão de contratos e comissões — sistema interno**
+**[Relação de Expositores — FIPAN 2027 (ver página pública)](https://fipan.com.br/pt_br/relacao-de-expositores/)**
 
-Participo do desenvolvimento de uma aplicação para acompanhar contratos, parcelas, repasses e comissões. O projeto envolve interface web, API, banco de dados e regras de acesso. O código é privado por se tratar de uma solução corporativa.
+Reestruturei a apresentação dos expositores em uma página responsiva, com busca, filtros por inicial, localização e setor. Também trabalhei na organização dos dados e nas melhorias de navegação em dispositivos móveis. O código-fonte corporativo não é público; o link mostra a página disponível no site oficial.
 
-**Relação de expositores — FIPAN**
+**SEVEN Commission OPS — sistema interno de contratos e comissões**
 
-Trabalho na manutenção e evolução de uma página de expositores com filtros por nome e setor, incluindo melhorias para dispositivos móveis. O repositório é privado por estar vinculado ao trabalho.
+Trabalho no desenvolvimento de uma aplicação para acompanhar contratos, parcelas, repasses e comissões. O projeto utiliza TypeScript, React, Node.js, Express e PostgreSQL, com API REST e regras de acesso. Por ser uma aplicação corporativa, o repositório permanece privado.
 
-## Tecnologias com as quais trabalho
+### Companhia do Metropolitano de São Paulo — Estagiário de Infraestrutura de TI
+*Julho de 2022 – março de 2024*
 
-- **Infraestrutura e suporte:** Microsoft 365, Entra ID, Active Directory, Windows Server, Google Workspace e Veeam
-- **Automação e dados:** Python, pandas, PowerShell e SQL
-- **Desenvolvimento web:** HTML, CSS, JavaScript, TypeScript, React, Node.js e PostgreSQL
-- **Ferramentas:** Git, GitHub e integrações com sistemas corporativos
+Atuei com suporte a ambientes Windows, Active Directory e automações em PowerShell, além de documentação técnica, requisições de infraestrutura e rotinas de gestão de mudanças.
 
-## Formação
+## Tecnologias e ferramentas
 
-- Bacharelado em Ciência da Computação — Faculdade das Américas (FAM), 2026
-- Pós-graduação em Governança de TI — Universidade Anhembi Morumbi (em andamento)
+- **Infraestrutura e identidade:** Microsoft 365, Entra ID, Active Directory, Windows Server, Google Workspace, redes e Veeam
+- **Automação e dados:** PowerShell, Python, pandas, SQL e PostgreSQL
+- **Desenvolvimento:** HTML, CSS, JavaScript, TypeScript, React, Vite, Node.js, Express e APIs REST
+- **Plataformas e trabalho:** WordPress, Elementor, Ploomes, Salesforce, OMIE, Git e GitHub
+- **Conhecimentos adicionais:** Java, C#, testes, documentação técnica e governança de TI
+
+## Formação e desenvolvimento
+
+- **Bacharelado em Ciência da Computação** — Faculdade das Américas (FAM), concluído em 2026
+- **Pós-graduação em Governança de TI** — Universidade Anhembi Morumbi, em andamento
+- **Cursos e formação complementar:** Cisco CyberOps, Veeam Availability Suite, PowerShell (Udemy) e Python (Geek University)
+- **Inglês:** intermediário-avançado, com leitura técnica
 
 ## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/fernandodetorres)
 - [E-mail](mailto:septorres@gmail.com)
 
-> Projetos corporativos permanecem privados para proteger informações e código da empresa.
+*Os projetos corporativos apresentados aqui respeitam a confidencialidade de código e dados internos.*
