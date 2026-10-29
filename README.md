@@ -8,7 +8,18 @@ No dia a dia, atuo com Microsoft 365, Entra ID, Active Directory, Windows Server
 
 Gosto de entender o problema antes de escolher a tecnologia. Parte do meu trabalho envolve conversar com as equipes, traduzir regras de negócio em funcionalidades e acompanhar os testes até que a solução possa ser utilizada.
 
-## Projetos e experiências
+## Projetos públicos
+
+**[Limpeza e segmentação de dados com Python](https://github.com/septorres/data-cleaning-segmentation-python)**  
+Pipeline para padronizar cadastros, validar e-mails, remover duplicidades e organizar contatos por cargo e interesses. Inclui dados fictícios e testes automatizados.
+
+**[Relatórios de Active Directory com PowerShell](https://github.com/septorres/active-directory-reporting-powershell)**  
+Scripts de consulta de usuários e auditoria de grupos, com exportação de relatórios CSV. Projeto baseado em atividades de 2023 e adaptado para portfólio em 2026, sem informações internas ou operações de alteração de contas.
+
+**[Previsão de séries temporais com Machine Learning](https://github.com/septorres/time-series-forecasting-ml)**  
+Experimento reproduzível com dados sintéticos, seleção de variáveis e comparação de Random Forest e MLP. Reconstrução em 2026 de um exercício acadêmico discutido em 2023.
+
+## Experiência em projetos corporativos
 
 **Gestão de contratos e comissões — sistema interno**
 
@@ -17,10 +28,6 @@ Participo do desenvolvimento de uma aplicação para acompanhar contratos, parce
 **Relação de expositores — FIPAN**
 
 Trabalho na manutenção e evolução de uma página de expositores com filtros por nome e setor, incluindo melhorias para dispositivos móveis. O repositório é privado por estar vinculado ao trabalho.
-
-**[Limpeza e segmentação de dados com Python](https://github.com/septorres/data-cleaning-segmentation-python)**
-
-Exemplo público, com dados fictícios, de um processo que realizo no trabalho: padronizar cadastros, eliminar duplicidades e preparar arquivos para análise e campanhas. O repositório contém o código, uma base de exemplo e instruções de execução.
 
 ## Tecnologias com as quais trabalho
 
